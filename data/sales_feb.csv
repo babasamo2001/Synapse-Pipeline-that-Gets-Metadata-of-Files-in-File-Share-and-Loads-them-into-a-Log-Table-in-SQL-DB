@@ -1,0 +1,4 @@
+SalesId,Date,CustName,CustAddr,Product,Category,Quantity,Price,Sales
+1,01/02/2023,emmanue babatunde,nigeria,trophy,white,26,3,42
+2,02/02/2023,don moen,usa,star,black,6,4,36
+3,03/02/2023,usain bolt,jamaica,budwiser,white,9,13,51
